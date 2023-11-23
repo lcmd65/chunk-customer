@@ -1,0 +1,6 @@
+pandas
+sklearn
+nltk
+ppscore==1.2.0
+
+
